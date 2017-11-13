@@ -1,0 +1,242 @@
+
+nav >a:hover{ 
+	background-color: #FFF;
+
+
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+
+}
+#awesomebar{
+	box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+
+}
+#awesomebar{
+
+}
+#awesomewrap .float-r{
+    float: right;
+
+}
+#awesomebar > li.more{
+    position: relative;
+
+}
+
+#tableBorder{
+	margin: 0;
+	padding: 0;
+	height: 100% !important;
+	width: 100% !important;
+
+}
+.__web-inspector-hide-shortcut__{
+	visibility: hidden !important;
+}
+.style{
+	border-color: red;
+}
+
+.table-style{
+ 
+	width: 800px;
+	margin-left:230px;
+	margin-top: 20px;
+	margin-right: 100px;
+
+}
+.data{
+	text-align: center;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f06d22;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    padding: 10px 0;
+    margin-left:8px; 
+}
+#date{
+    text-align: right;
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: #f06d22;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+.sub{
+	font-size: 15px;
+	font-weight: normal;
+	display: block;
+	padding-left:20px;
+}
+.margin{
+	display: block;
+	width: 100%;
+	margin-bottom:10px;
+	color: #505050;
+	font-family: 'Open Sans',Arial,sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+	text-align: left;
+
+}
+.talkdate{
+	color: #888;
+	font-size: 14px;
+	font-weight: 300;
+	font-family: 'Open Sans',Arial,sans-serif;
+	padding-left: 330px;
+}
+.mybtn{
+	border-radius: .1rem;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	background-color: #ff8000;
+	text-align: center;
+	border-color: #ffcc99;
+	width: 80px;
+	height: 35px;
+	 }
+.mybtn:hover{
+	background-color: #ff9a32;
+	border-color: #ff8000;
+}
+.margin-bottom{
+	font-size: 15px;
+	color: #202020;
+	line-height: 1.5;
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+}
+#style-para{
+	text-align: justify;
+	color: #505050;
+	font-family: 'Open Sans', Arial,sans-serif;
+	font-size: 14px;
+	line-height: 150%;
+	padding-left: 330px;
+}
+.penalist{
+	color: #505050;
+	font-family: 'Open Sans',Arial,sans-serif;
+	font-size: 9px !important;
+	line-height: 150%;
+	text-align:center!important;
+	margin-left: 80px;
+
+}
+.margin-bottom1{
+	display: inline;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+.h2{
+	color: #202020;
+	display: block;
+	font-family: 'Open Sans',Arial,sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	line-height: 100%;
+	margin-bottom: 10px;
+	text-align: left;
+	margin:0;
+}
+.with{
+	font-size: 15px;
+	font-weight: normal;
+	display: block;
+	color: #202020;
+}
+.date1{
+	color: #888;
+	font-size: 13px;
+	font-weight: 300;
+	font-family: 'Open Sans',Arial,sans-serif;
+}
+.button{
+	color: #FFFFFF;
+	font-family: 'Open Sans',Arial,sans-serif;
+	font-size: 13px;
+	display: inline;
+	background:#f06d22;
+	margin-right: 0px;
+	marker-left:10px; 
+}
+.participate{
+	padding: 10px 20px;
+	font-size: 12px;
+	width: 500px;
+	margin: 0 auto;
+	line-height: 1.5;
+	color: #929496;
+}
+.upComingTalks{
+	background-color: #ebebeb;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+.sectionHeader{
+	text-align: center;
+	color: #f06d22;
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: .4em;
+
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+.below{
+	padding: 10px;
+	background-color: #ebebeb;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+.picHeading{
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	background: none;
+	margin-bottom: 10px;
+	display: block;
+	color: #929496;
+
+
+}
+.pick{
+	display: block;
+	float: left;
+	width: 100%;
+	background: none!important;
+}
+.linkstyle{
+	color: #929496;
+	display: block;font-family: 'Open Sans', Arial, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.5;
+	margin-bottom: 10px;
+	text-align: left;
+	margin: 0;
+}
+#templatefooter{
+	background: #fafafa;
+	border-top: 0;
+
+}
+.social{
+	line-height: 125%;
+	font-size: 12px;
+}
+#tstyle{
+	background-color:#FFFFFF;
+	border-top:1px solid #E5E5E5;
+}
+#canspamBarWrapper{
+	background-color:#FFFFFF;
+	 border-top:1px solid #E5E5E5;
+}
